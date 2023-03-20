@@ -215,3 +215,5 @@ Solução (A frequência de "Movies"):
 
 Obs: A base de dados da Amazon Prime apresentou poucos registros com informação de inclusão no serviço.
 
+Link da apresentação: https://www.loom.com/embed/6cf0da0ac29544d480ed5d4e73b91fda
+
